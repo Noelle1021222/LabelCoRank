@@ -1,2 +1,3 @@
-# ELIFN
-An Expanded Label Information Fusion Network Combinning Semantics and Co-occurrence for Multi-Label Text Classification  
+# LabelCoRank
+Label Relationships Are All You Need for Long Tail Issues in
+Multi-Label Classification
