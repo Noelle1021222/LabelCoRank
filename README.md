@@ -1,3 +1,2 @@
 # LabelCoRank
-Label Relationships Are All You Need for Long Tail Issues in
-Multi-Label Classification
+LabelCoRank: Revolutionizing Long Tail Multi-Label Classification with Co-Occurrence Reranking
